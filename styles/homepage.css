@@ -1,0 +1,51 @@
+.header {
+    text-align: center;
+    padding-top: 264px;
+    padding-bottom: 294px;
+}
+
+#intro {
+    text-align: center;
+}
+
+#intro > div {
+    display: inline-block;
+}
+
+.button {
+    font-size: 14px;
+    padding: 10px 34px;
+    border-radius: 12px;
+    border: none;
+    background-color: #74663E;
+    color: white;
+}
+
+@media (max-width: 767px) {
+    .mw-284 {
+        max-width: 284px;
+    }
+
+    .mb-40 {
+        margin-bottom: 40px;
+    }
+}
+
+@media (min-width: 768px) {
+    .list {
+        display: flex;
+        align-content: center;
+    }
+
+    .mw-490 {
+        max-width: 490px;
+    }
+
+    .list > div {
+        width: 33%;
+    }
+
+    .mb-400 {
+        margin-bottom: 400px;
+    }
+}
