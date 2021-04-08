@@ -41,6 +41,11 @@
 
 @media (min-width: 768px) {
     #body-text > div, button {
-        max-width: 490px;
+        max-width: 600px;
+        margin: 10px;
+    }
+
+    .padding-top-40 {
+        padding-top: 40px;
     }
 }

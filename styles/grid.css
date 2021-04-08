@@ -31,3 +31,17 @@
     font-size: 8px;
     line-height: 0.5;
 }
+
+@media (min-width: 768px) {
+    .grid-text div {
+        max-width: 600px;
+    }
+
+    .grid-pic {
+        max-width: 400px;
+    }
+
+    .main-text div {
+        margin: 34px;
+    }
+}
