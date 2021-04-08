@@ -2,6 +2,7 @@
     position: relative;
     top: 64px;
     text-align: center;
+    z-index: -1;
 }
 
 .credit-header h1 {
@@ -21,4 +22,8 @@
     color: #74663E;
     text-align: center;
     margin: 0;
+}
+
+@media (min-width: 768px) {
+    
 }
