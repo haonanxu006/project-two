@@ -4,14 +4,6 @@
     padding-bottom: 294px;
 }
 
-#intro {
-    text-align: center;
-}
-
-#intro > div {
-    display: inline-block;
-}
-
 .button {
     font-size: 14px;
     padding: 10px 34px;

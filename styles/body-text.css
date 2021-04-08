@@ -1,0 +1,46 @@
+#text-block {
+    margin-top: 64px;
+}
+
+#title {
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+#text-block h1, p {
+    color: #74663E;
+    text-align: left;
+    line-height: 1.8;
+}
+
+#text-block div, button {
+    text-align: center;
+}
+
+#body-text div, button {
+    display: inline-block;
+}
+
+#body-text button {
+    border: 0;
+    padding: 0px 30px;
+    border-radius: 18px;
+    text-align: center;
+    background-color: #74663E;
+}
+
+#text-block iframe {
+    border: 0;
+}
+
+@media (max-width: 767px) {
+    #body-text > div, button {
+        max-width: 300px;
+    }
+}
+
+@media (min-width: 768px) {
+    #body-text > div, button {
+        max-width: 490px;
+    }
+}

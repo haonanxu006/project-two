@@ -1,0 +1,33 @@
+.accordion p {
+    color: #74663E;
+    font-size: 13px;
+}
+
+.qs {
+    color:white;
+    padding: 10px 40px;
+    border-radius: 16px;
+    background-color: #74663E;
+    margin: 0;
+}
+
+.accordion .contentBx {
+    position: relative;
+    margin: 10px 20px;
+}
+
+.label {
+    cursor: pointer;
+}
+
+.content {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    transition: 0.5s;
+    overflow-y: auto;
+}
+
+.contentBx.active .content {
+    height: 400px;
+}

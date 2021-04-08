@@ -1,0 +1,33 @@
+.grid-text {
+    position: relative;
+    top: 64px;
+    z-index: -1;
+}
+
+.grid-text div {
+    max-width: 300px;
+    text-align: center;
+}
+
+.grid-text h1 {
+    color: #74663E;
+}
+
+.grid-header {
+    position: relative;
+    top: 64px;
+}
+
+.main-text {
+    position: relative;
+    top: 80px;
+}
+
+.grid-pic {
+    max-width: 300px;
+}
+
+.grid-pic-info {
+    font-size: 8px;
+    line-height: 0.5;
+}
