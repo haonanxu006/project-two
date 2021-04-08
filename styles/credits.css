@@ -1,0 +1,24 @@
+.credit-header {
+    position: relative;
+    top: 64px;
+    text-align: center;
+}
+
+.credit-header h1 {
+    color: #74663E;
+}
+
+.credit-contents {
+    position: relative;
+    top: 100px;
+}
+
+.credit-contents div {
+    max-width: 300px;
+}
+
+.credit-contents p {
+    color: #74663E;
+    text-align: center;
+    margin: 0;
+}
