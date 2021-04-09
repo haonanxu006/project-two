@@ -49,8 +49,13 @@ body {
         top: 64px;
         width: 100%;
         position: absolute;
-        background: black;
+        background: #74663E;
         transform: translateX(-100vh);
+    }
+
+    .primary-nav ul li {
+        margin: 15px;
+        padding-left: 135px;
     }
 
     .primary-nav ul.active {
@@ -75,5 +80,9 @@ body {
 
     .primary-nav ul li {
         padding-left: 10px;
+    }
+
+    .primary-nav ul li a {
+        color: white;
     }
 }
