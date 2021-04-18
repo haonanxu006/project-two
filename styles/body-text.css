@@ -19,6 +19,10 @@ button {
   text-align: center;
 }
 
+.block {
+  display: block !important;
+}
+
 #body-text div,
 button {
   display: inline-block;

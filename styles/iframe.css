@@ -4,6 +4,7 @@
 .mw-med {
   max-width: 720px;
   margin: 0 auto;
+  display: block !important;
 }
 
 .aspect-ratio {
@@ -11,6 +12,7 @@
   background: black;
   width: 100%;
   padding-top: 56.25%;
+  display: block !important;
 }
 
 iframe {
@@ -19,4 +21,5 @@ iframe {
   left: 0;
   width: 100%;
   height: 100%;
+  display: block !important;
 }
