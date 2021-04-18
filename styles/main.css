@@ -5,6 +5,17 @@
 @import url("./grid.css");
 @import url("./credits.css");
 
+.bg-teal {
+  background-color: #89cac6;
+}
+
+.bg-home {
+  background-image: url("./images/background.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .fc-brown {
   color: #74663e;
 }
