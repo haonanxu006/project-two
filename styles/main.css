@@ -6,33 +6,31 @@
 @import url("./credits.css");
 
 .fc-brown {
-    color:#74663E;
+  color: #74663e;
 }
 
 .ff-ss {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .h-center {
-    text-align: center;
+  text-align: center;
 }
 
 .m-0 {
-    margin: 0px;
+  margin: 0px;
 }
 
 .outer-block {
-    text-align: center;
+  text-align: center;
 }
 
 .inline-block {
-    display: inline-block;
+  display: inline-block;
 }
-
 
 @media (min-width: 768px) {
-    body {
-        background-size: 50%;
-    }
+  body {
+    background-size: 50%;
+  }
 }
-

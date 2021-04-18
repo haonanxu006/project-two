@@ -1,29 +1,28 @@
 .credit-header {
-    position: relative;
-    top: 64px;
-    text-align: center;
-    z-index: -1;
+  position: relative;
+  top: 64px;
+  text-align: center;
+  z-index: -1;
 }
 
 .credit-header h1 {
-    color: #74663E;
+  color: #74663e;
 }
 
 .credit-contents {
-    position: relative;
-    top: 100px;
+  position: relative;
+  top: 100px;
 }
 
 .credit-contents div {
-    max-width: 300px;
+  max-width: 300px;
 }
 
 .credit-contents p {
-    color: #74663E;
-    text-align: center;
-    margin: 0;
+  color: #74663e;
+  text-align: center;
+  margin: 0;
 }
 
 @media (min-width: 768px) {
-    
 }
