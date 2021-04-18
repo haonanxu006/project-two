@@ -12,6 +12,7 @@ body {
   align-items: center;
   background: #74663e;
   box-shadow: 0 0 5px 5px rgb(0, 0, 0, 0.16);
+  z-index: 1;
 }
 
 .primary-nav .logo {
