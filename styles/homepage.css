@@ -13,6 +13,10 @@
   color: white;
 }
 
+.list {
+  box-sizing: border-box;
+}
+
 @media (max-width: 767px) {
   .mw-284 {
     max-width: 284px;
